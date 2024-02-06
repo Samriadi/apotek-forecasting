@@ -1,7 +1,7 @@
 <?php
 //data database
 $servername = "localhost";
-$database = "apotek-apk";
+$database = "apotek-app";
 $username = "root";
 $password = "";
 
